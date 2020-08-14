@@ -22,17 +22,17 @@
 [![Years Badge](https://badges.pufler.dev/years/rahulsrma26)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/rahulsrma26)](https://badges.pufler.dev)
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulsrma26&show_icons=true&theme=nord )
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulsrma26&show_icons=true&theme=vue)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsrma26&hide=html&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsrma26&hide=html&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-## Featured repositories:
+<!-- ## Featured repositories:
 <div>
     <a align='left' href="https://github.com/rahulsrma26/simpleAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsrma26&repo=simpleAI&theme=nord">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsrma26&repo=simpleAI&theme=vue">
     </a>
     <a align='left' href="https://github.com/rahulsrma26/streamlit-mnist-drawable">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsrma26&repo=streamlit-mnist-drawable&theme=nord">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsrma26&repo=streamlit-mnist-drawable&theme=vue">
     </a>
-</div>
+</div> -->
