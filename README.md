@@ -1,4 +1,4 @@
-<img align='right' src="img/wave.gif" width="230">
+<img align='right' src="https://github.com/rahulsrma26/rahulsrma26/raw/master/img/wave.gif">
 <div style="height: 120px;">
 <h1>Hi, I'm <b>Rahul Sharma</b>!</h1>
 <a href="https://www.linkedin.com/in/rahulsrma26/">
