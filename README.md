@@ -18,7 +18,11 @@
 </a>
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rahulsrma26.rahulsrma26)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/rahulsrma26/count.svg) -->
+
+<!-- <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frahulsrma26%2Fhit-counter" alt="Hits"> -->
+
+[![Visits Badge](https://badges.pufler.dev/visits/rahulsrma26/rahulsrma26)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/rahulsrma26)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/rahulsrma26)](https://badges.pufler.dev)
 
