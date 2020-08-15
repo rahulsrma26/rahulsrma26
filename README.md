@@ -16,13 +16,13 @@
 <a href="https://rahulsrma26.github.io/">
     <img src="https://img.shields.io/badge/-blog-SteelBlue?style=flat-square&logo=bitdefender&logoColor=black&link=https://rahulsrma26.github.io/" >
 </a>
+<a href="https://github.com/rahulsrma26">
+    <img src="https://profile-counter.glitch.me/rahulsrma26/count.svg" />
+</a>
 </div>
-
-<!-- ![Visitor Count](https://profile-counter.glitch.me/rahulsrma26/count.svg) -->
 
 <!-- <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frahulsrma26%2Fhit-counter" alt="Hits"> -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/rahulsrma26/rahulsrma26)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/rahulsrma26)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/rahulsrma26)](https://badges.pufler.dev)
 
