@@ -1,6 +1,9 @@
 <img align='right' src="https://github.com/rahulsrma26/rahulsrma26/raw/master/img/wave.gif">
 <div style="height: 120px;">
 <h1>Hi, I'm <b>Rahul Sharma</b>!</h1>
+<a target="_blank" rel="noopener noreferrer" href="https://rahulsrma26.github.io/">
+    <img src="https://img.shields.io/badge/-blog-n-site-SteelBlue?style=flat-square&logo=bitdefender&logoColor=black&link=https://rahulsrma26.github.io/" >
+</a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/rahulsrma26/">
     <img src="https://img.shields.io/badge/-rahulsrma26-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulsrma26/" >
 </a>
@@ -12,9 +15,6 @@
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.deviantart.com/rahulsrma26">
     <img src="https://img.shields.io/badge/-art-black?style=flat-square&logo=deviantart&link=https://www.deviantart.com/rahulsrma26" >
-</a>
-<a target="_blank" rel="noopener noreferrer" href="https://rahulsrma26.github.io/">
-    <img src="https://img.shields.io/badge/-blog-SteelBlue?style=flat-square&logo=bitdefender&logoColor=black&link=https://rahulsrma26.github.io/" >
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/rahulsrma26">
     <img src="https://profile-counter.glitch.me/rahulsrma26/count.svg" />
