@@ -2,7 +2,7 @@
 <div style="height: 120px;">
 <h1>Hi, I'm <b>Rahul Sharma</b>!</h1>
 <a target="_blank" rel="noopener noreferrer" href="https://rahulsrma26.github.io/">
-    <img src="https://img.shields.io/badge/-blog-n-site-SteelBlue?style=flat-square&logo=bitdefender&logoColor=black&link=https://rahulsrma26.github.io/" >
+    <img src="https://img.shields.io/badge/blog-personal%20website-SteelBlue?style=flat-square&logo=bitdefender&logoColor=black&link=https://rahulsrma26.github.io/" >
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/rahulsrma26/">
     <img src="https://img.shields.io/badge/-rahulsrma26-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulsrma26/" >
