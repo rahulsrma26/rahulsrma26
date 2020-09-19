@@ -16,6 +16,10 @@
 <a target="_blank" rel="noopener noreferrer" href="https://www.deviantart.com/rahulsrma26">
     <img src="https://img.shields.io/badge/-art-black?style=flat-square&logo=deviantart&link=https://www.deviantart.com/rahulsrma26" >
 </a>
+</div>
+
+<div>
+Profile Visits: &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/rahulsrma26">
     <img src="https://profile-counter.glitch.me/rahulsrma26/count.svg" />
 </a>
