@@ -19,10 +19,10 @@
 </div>
 
 <div>
-Profile Visits: &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/rahulsrma26">
     <img src="https://profile-counter.glitch.me/rahulsrma26/count.svg" />
 </a>
+&nbsp; Visits
 </div>
 
 <!-- <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frahulsrma26%2Fhit-counter" alt="Hits"> -->
