@@ -18,13 +18,6 @@
 </a>
 </div>
 
-<div>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/rahulsrma26">
-    <img src="https://profile-counter.glitch.me/rahulsrma26/count.svg" />
-</a>
-&nbsp; Visits
-</div>
-
 <!-- <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frahulsrma26%2Fhit-counter" alt="Hits"> -->
 
 [![Years Badge](https://badges.pufler.dev/years/rahulsrma26)](https://badges.pufler.dev)
@@ -44,3 +37,10 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsrma26&repo=streamlit-mnist-drawable&theme=vue">
     </a>
 </div> -->
+
+<div>
+<p>Break the visit counter</p>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/rahulsrma26">
+    <img src="https://profile-counter.glitch.me/rahulsrma26/count.svg" />
+</a>
+</div>
