@@ -39,7 +39,7 @@
 </div> -->
 
 <div>
-<p>Break the visit counter</p>
+<p>Break the visit counter by hitting refresh :P</p>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/rahulsrma26">
     <img src="https://profile-counter.glitch.me/rahulsrma26/count.svg" />
 </a>
