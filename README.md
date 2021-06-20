@@ -28,16 +28,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsrma26&hide=html&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ## Featured repositories:
-<div>
-    <a align='left' href="https://github.com/rahulsrma26/simpleAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsrma26&repo=simpleAI&theme=vue">
-    </a>
-    <a align='left' href="https://github.com/rahulsrma26/streamlit-mnist-drawable">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsrma26&repo=streamlit-mnist-drawable&theme=vue">
-    </a>
-</div> -->
-
 <div>
 <p>Break the visit counter by hitting refresh :P</p>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/rahulsrma26">
