@@ -28,6 +28,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsrma26&hide=html&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
+## Latest Blog Posts📩
+<!-- BLOG-POST-LIST:START -->
+- [Automate your GitHub Pages deployment using Actions](https://rahulsrma26.github.io/articles/gh-pages)
+- [A love letter of a physicist](https://rahulsrma26.github.io/articles/love-letter)
+- [Create a fast static site in React using Gatsby](https://rahulsrma26.github.io/articles/static-site)
+<!-- BLOG-POST-LIST:END -->
+
 <div>
 <p>Break the visit counter by hitting refresh :P</p>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/rahulsrma26">
