@@ -20,9 +20,6 @@
 
 <!-- <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frahulsrma26%2Fhit-counter" alt="Hits"> -->
 
-[![Years Badge](https://badges.pufler.dev/years/rahulsrma26)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/rahulsrma26)](https://badges.pufler.dev)
-
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulsrma26&show_icons=true&theme=vue)
 
 
